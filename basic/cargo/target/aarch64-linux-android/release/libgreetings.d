@@ -1,1 +1,1 @@
-/Users/emilytoop/Development/greetings/basic/cargo/target/aarch64-linux-android/release/libgreetings.so: /Users/emilytoop/Development/greetings/basic/cargo/src/lib.rs
+/Users/lihanguang/dev_kit/src_code/rust_code/cross-platform-rust/basic/cargo/target/aarch64-linux-android/release/libgreetings.so: /Users/lihanguang/dev_kit/src_code/rust_code/cross-platform-rust/basic/cargo/src/lib.rs

@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="false">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ba740525-4532-49ef-b1c1-26905629e7db" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../android/Greetings/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android/Greetings/.idea/copyright/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android/Greetings/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../android/Greetings/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android/Greetings/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../android/Greetings/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android/Greetings/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../android/Greetings/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android/Greetings/app/src/main/jniLibs/arm64/libgreetings.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android/Greetings/app/src/main/jniLibs/armeabi/libgreetings.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android/Greetings/app/src/main/jniLibs/x86/libgreetings.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android/Greetings/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../android/Greetings/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cargo.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/aarch64-linux-android/release/libgreetings.a" beforeDir="false" afterPath="$PROJECT_DIR$/target/aarch64-linux-android/release/libgreetings.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/aarch64-linux-android/release/libgreetings.d" beforeDir="false" afterPath="$PROJECT_DIR$/target/aarch64-linux-android/release/libgreetings.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/aarch64-linux-android/release/libgreetings.so" beforeDir="false" afterPath="$PROJECT_DIR$/target/aarch64-linux-android/release/libgreetings.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/armv7-linux-androideabi/release/libgreetings.a" beforeDir="false" afterPath="$PROJECT_DIR$/target/armv7-linux-androideabi/release/libgreetings.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/armv7-linux-androideabi/release/libgreetings.d" beforeDir="false" afterPath="$PROJECT_DIR$/target/armv7-linux-androideabi/release/libgreetings.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/armv7-linux-androideabi/release/libgreetings.so" beforeDir="false" afterPath="$PROJECT_DIR$/target/armv7-linux-androideabi/release/libgreetings.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/i686-linux-android/release/.fingerprint/ascii-37547ffc654d8f3a/dep-lib-ascii-37547ffc654d8f3a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/i686-linux-android/release/.fingerprint/ascii-37547ffc654d8f3a/lib-ascii-37547ffc654d8f3a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/i686-linux-android/release/.fingerprint/ascii-37547ffc654d8f3a/lib-ascii-37547ffc654d8f3a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/i686-linux-android/release/.fingerprint/byteorder-2411c1190f395d96/dep-lib-byteorder-2411c1190f395d96" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/i686-linux-android/release/.fingerprint/byteorder-2411c1190f395d96/lib-byteorder-2411c1190f395d96" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/i686-linux-android/release/.fingerprint/byteorder-2411c1190f395d96/lib-byteorder-2411c1190f395d96.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/i686-linux-android/release/.fingerprint/cesu8-56b76578f9f1882b/dep-lib-cesu8-56b76578f9f1882b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/i686-linux-android/release/.fingerprint/cesu8-56b76578f9f1882b/lib-cesu8-56b76578f9f1882b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/i686-linux-android/release/.fingerprint/cesu8-56b76578f9f1882b/lib-cesu8-56b76578f9f1882b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/i686-linux-android/release/.fingerprint/combine-4422756970f1550d/dep-lib-combine-4422756970f1550d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/i686-linux-android/release/.fingerprint/combine-4422756970f1550d/lib-combine-4422756970f1550d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/i686-linux-android/release/.fingerprint/combine-4422756970f1550d/lib-combine-4422756970f1550d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/i686-linux-android/release/.fingerprint/error-chain-103c0f8610c4f182/dep-lib-error_chain-103c0f8610c4f182" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/i686-linux-android/release/.fingerprint/error-chain-103c0f8610c4f182/lib-error_chain-103c0f8610c4f182" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/i686-linux-android/release/.fingerprint/error-chain-103c0f8610c4f182/lib-error_chain-103c0f8610c4f182.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/i686-linux-android/release/.fingerprint/greetings-b9e03239b6cdd7a0/dep-lib-greetings-b9e03239b6cdd7a0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/i686-linux-android/release/.fingerprint/greetings-b9e03239b6cdd7a0/lib-greetings-b9e03239b6cdd7a0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/i686-linux-android/release/.fingerprint/greetings-b9e03239b6cdd7a0/lib-greetings-b9e03239b6cdd7a0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/i686-linux-android/release/.fingerprint/jni-8fd45a91a256975b/dep-lib-jni-8fd45a91a256975b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/i686-linux-android/release/.fingerprint/jni-8fd45a91a256975b/lib-jni-8fd45a91a256975b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/i686-linux-android/release/.fingerprint/jni-8fd45a91a256975b/lib-jni-8fd45a91a256975b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/i686-linux-android/release/.fingerprint/jni-sys-d12532b48f4cb3e2/dep-lib-jni_sys-d12532b48f4cb3e2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/i686-linux-android/release/.fingerprint/jni-sys-d12532b48f4cb3e2/lib-jni_sys-d12532b48f4cb3e2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/i686-linux-android/release/.fingerprint/jni-sys-d12532b48f4cb3e2/lib-jni_sys-d12532b48f4cb3e2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/i686-linux-android/release/.fingerprint/log-993417d12efa90f4/dep-lib-log-993417d12efa90f4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/i686-linux-android/release/.fingerprint/log-993417d12efa90f4/lib-log-993417d12efa90f4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/i686-linux-android/release/.fingerprint/log-993417d12efa90f4/lib-log-993417d12efa90f4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/i686-linux-android/release/deps/libascii-37547ffc654d8f3a.rlib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/i686-linux-android/release/deps/libbyteorder-2411c1190f395d96.rlib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/i686-linux-android/release/deps/libcesu8-56b76578f9f1882b.rlib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/i686-linux-android/release/deps/libcombine-4422756970f1550d.rlib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/i686-linux-android/release/deps/liberror_chain-103c0f8610c4f182.rlib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/i686-linux-android/release/deps/libgreetings-b9e03239b6cdd7a0.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/i686-linux-android/release/deps/libgreetings-b9e03239b6cdd7a0.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/i686-linux-android/release/deps/libjni-8fd45a91a256975b.rlib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/i686-linux-android/release/deps/libjni_sys-d12532b48f4cb3e2.rlib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/i686-linux-android/release/deps/liblog-993417d12efa90f4.rlib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/i686-linux-android/release/libgreetings.a" beforeDir="false" afterPath="$PROJECT_DIR$/target/i686-linux-android/release/libgreetings.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/i686-linux-android/release/libgreetings.d" beforeDir="false" afterPath="$PROJECT_DIR$/target/i686-linux-android/release/libgreetings.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/i686-linux-android/release/libgreetings.so" beforeDir="false" afterPath="$PROJECT_DIR$/target/i686-linux-android/release/libgreetings.so" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="426288466">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="h" value="1" />
+          <entry key="rs" value="1" />
+          <entry key="toml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="ObjectiveC" value="1" />
+          <entry key="Rust" value="1" />
+          <entry key="TOML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="toml" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="TOML" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Cargo.toml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/greetings.h">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/lib.rs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="262">
+              <caret line="30" column="21" lean-forward="true" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Cargo.toml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="cargo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cargo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cargo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cargo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Cargo" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/greetings.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cargo.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lib.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="30" column="21" lean-forward="true" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
