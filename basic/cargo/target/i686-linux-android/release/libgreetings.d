@@ -1,1 +1,0 @@
-/Users/lihanguang/dev_kit/src_code/rust_code/cross-platform-rust/basic/cargo/target/i686-linux-android/release/libgreetings.so: /Users/lihanguang/dev_kit/src_code/rust_code/cross-platform-rust/basic/cargo/src/lib.rs
