@@ -20,6 +20,9 @@ invocation = []
 backtrace = ["error-chain/backtrace"]
 default = ["backtrace"]
 
+[build-dependencies]
+cc = "1.0"
+
 [lib]
 name = "greetings"
 crate-type = ["staticlib", "cdylib"]
